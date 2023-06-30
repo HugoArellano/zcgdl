@@ -22,8 +22,8 @@ st.markdown("### **Mapa**")
 
 
 # Load data
-df_gdl = pd.read_csv("data/guadalajara21zc.csv") # Dataframe
-geojson = gpd.read_file("data/guadalajarazc.geojson") # Geodataframe
+df_gdl = pd.read_csv("guadalajara21zc.csv") # Dataframe
+geojson = gpd.read_file("reduced.geojson") # Geodataframe
 
 
 # Assign keys and values to dict
