@@ -14,9 +14,8 @@ st.set_page_config(page_title='Zona conurbada Guadalajara',
 
 st.title("Zona Conurbada Gudalajara - Secciones")
 
-st.markdown("El mapa contiene los votos por sección que los candidatos de Morena obtuvieron en las elecciones 2021"
-        " por las alcaldías en los municipios que integran la Zona Conurbada de Guadalajara."
-            "Lo anterior para servir como marco de referencia para ubicar la localización de militantes y simpatizantes.")
+st.markdown("El mapa contiene el porcentaje de votos por sección que los candidatos de Morena obtuvieron en las elecciones 2021"
+        "por las alcaldías en los municipios que integran la Zona Conurbada de Guadalajara.")
 
 st.markdown("### **Mapa**")
 
